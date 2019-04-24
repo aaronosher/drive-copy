@@ -1,0 +1,23 @@
+{
+  "name": "drive-copy",
+  "version": "1.0.0",
+  "description": "Uses App Script to Copy Folders in Drive",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aaron Osher <aaron@osher.dev>",
+  "license": "MIT",
+  "dependencies": {
+    "googleapis": "27"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronosher/drive-copy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aaronosher/drive-copy/issues"
+  },
+  "homepage": "https://github.com/aaronosher/drive-copy#readme"
+}
